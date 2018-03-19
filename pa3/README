@@ -1,0 +1,6 @@
+Sparse.java - Reads input file and represents Matrix using a List of data points
+Matrix.java - Matrix class w/ matrix operations that modify
+List.java - Doubly linked list ADT
+MatrixTest.java - Test - matrix functions
+ListTest.java - Tests list functions
+Makefile - compiles java files

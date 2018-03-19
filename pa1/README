@@ -1,0 +1,4 @@
+List.java - Doubly linked list ADT
+ListClient.java - test Lex solution
+Lex.java - arranges inputs alphabetically 
+Makefile - compiles java files

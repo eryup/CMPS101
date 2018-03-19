@@ -1,0 +1,7 @@
+List.c - List ADT
+List.h - Header file for List.c
+Graph.c - Graph ADT
+Graph.h - Header file for Graph.c
+GraphTest.c - Test client for Graph.c
+FindComponents.c - Reads input file, runs DFS on Graph to find SCC
+Makefile - Compiles c files

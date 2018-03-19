@@ -1,0 +1,5 @@
+List.c - Doubly linked list ADT
+List.h - header file for List.c
+ListClient.c - test Lex solution
+Lex.c - arranges inputs alphabetically 
+Makefile - compiles java files
